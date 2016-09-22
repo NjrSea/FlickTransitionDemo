@@ -1,0 +1,6 @@
+framework module FlickTransition {
+  umbrella header "FlickTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

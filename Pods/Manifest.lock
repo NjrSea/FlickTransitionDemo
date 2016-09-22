@@ -1,0 +1,12 @@
+PODS:
+  - FlickTransition (1.1.1)
+
+DEPENDENCIES:
+  - FlickTransition
+
+SPEC CHECKSUMS:
+  FlickTransition: c9525e23dcad0945d637c0f0138ca570eaa28407
+
+PODFILE CHECKSUM: 64b2f54f34d2f3c44ea20d88023ea3bcd7d889a0
+
+COCOAPODS: 1.0.1
